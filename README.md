@@ -8,7 +8,6 @@ Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de cond
 
 ## Autores
 
-
 ## Licença
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
 
