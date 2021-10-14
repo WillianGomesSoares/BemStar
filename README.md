@@ -6,6 +6,17 @@
 ## Contribuição
 Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
+## Sobre o projeto
+Realizar um plano de ação que visa auxiliar no combate e na prevenção de Doenças Sexualmente Transmissíveis, através de metas e objetivos claros.
+Doenças sexualmente transmissíveis são causadas por contato sexual com pessoas infectadas e são consideradas recorrentes em populações de baixa renda.
+
+### Objetivo Geral 
+- Reduzir a carga de infecção.
+- Desenvolver estratégias diferenciadas que qualifique ações de vigilância de manejo clínico das doenças.
+- Realização de ações socioeducativas e de mobilização social para mudanças de comportamentos de risco.
+- Estruturação de uma rede de atenção para pessoas com essas doenças. 
+- Inclusão das doenças entre prioridade das agendas políticas.
+
 ## Autores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
