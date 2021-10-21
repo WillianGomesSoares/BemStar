@@ -24,6 +24,11 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 <table>
   <tr>
    <a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares </b></sub></a><br /> <b>Líder de Projeto </b>
+    
+     <tr>
+   <a href="https://github.com/thalesgfelix
+"><img src="https://avatars.githubusercontent.com/u/90735076?s=400&u=61057541b0015aa3c793d7c069540724c23b73d0&v=4
+" width="100px;" alt=""/><br /><sub><b>Thales Gabriel Ferreira Félix </b></sub></a><br />
       
 
       
