@@ -8,27 +8,4 @@
   "imageSize": 100,
   "commit": false,
   "skipCi": false,
-  "contributors": [
-    {
-      "login": "WillianGomesSoares",
-      "name": "Willian Gomes Soares",
-      "avatar_url": "https://avatars.githubusercontent.com/u/89430965?s=96&v=4",
-      "profile": "https://github.com/WillianGomesSoares",
-      "contributions": [
-        "doc"
-      ]
-     }
-     "login": "PhillipeHenri",
-      "name": "Phillipe Henrique",
-      "avatar_url": "https://avatars.githubusercontent.com/u/92490186?s=400&v=4",
-      "profile": "https://github.com/PhillipeHenri",
-      "contributions": [
-        "doc"
-      ]
-}
-     "login": "JessicaTeodoroM",
-      "name": "Jessica Martins Teodoro",
-      "avatar_url": "https://avatars.githubusercontent.com/u/91223969?v=4",
-      "profile": "https://github.com/JessicaTeodoroM/JessicaTeodoroM.git",
-      "contributions": [
-        "doc"
+  "contributors":
