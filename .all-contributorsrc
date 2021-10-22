@@ -1,11 +1,1 @@
-{
-  "projectName": "react-testing-library",
-  "projectOwner": "testing-library",
-  "repoType": "github",
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "skipCi": false,
-  "contributors":
+
