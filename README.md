@@ -23,11 +23,14 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 <!-- markdownlint-disable -->
 <table>
   <tr>
-  <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /></td>
-   <a href="https://github.com/thalesgfelix"><img src="https://avatars.githubusercontent.com/u/90735076?s=400&u=61057541b0015aa3c793d7c069540724c23b73d0&v=4" width="100px;" alt=""/><br /><sub><b>Thales Gabriel Ferreira Félix </b></sub></a><br />
-      
+    <td align="center"><a href="https://github.com/danilojsilva"><img src="https://avatars.githubusercontent.com/u/90105147?v=4" width="100px;" alt=""/><br /><sub><b>Danilo Jorge da Silva</b></sub></td>
+    <td align="center"><a href="https://github.com/JessicaTeodoroM"><img src="https://avatars.githubusercontent.com/u/91223969?v=4" width="100px;" alt=""/><br /><sub><b>Jessica Teodoro</b></sub></td>
+    <td align="center"><a href="https://github.com/PhillipeHenri"><img src="https://avatars.githubusercontent.com/u/92490186?v=4" width="100px;" alt=""/><br /><sub><b>Phillipe Henrique</b></sub></td>
+    <td align="center"><a href="https://github.com/rafaelalopesz"><img src="https://avatars.githubusercontent.com/u/89741721?v=4" width="100px;" alt=""/><br /><sub><b>Rafaela Lopes</b></sub></td>
+    <td align="center"><a href="https://github.com/RamonFReis"><img src="https://avatars.githubusercontent.com/u/90293308?v=4" width="100px;" alt=""/><br /><sub><b>Ramon Reis</b></sub></td>
+    <td align="center"><a href="https://github.com/thalesgfelix"><img src="https://avatars.githubusercontent.com/u/90735076?v=4" width="100px;" alt=""/><br /><sub><b>Thales Gabriel</b></sub></td>
+    <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /> <a>Líder de projeto</a></td>
 
-      
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
