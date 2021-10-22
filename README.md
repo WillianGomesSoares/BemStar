@@ -2,10 +2,6 @@
 
 ![bemstar](https://user-images.githubusercontent.com/89430965/137225552-6685f72f-af3a-4597-be75-5c227ad47d2f.png)
 
-
-## Contribuição
-Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
-
 ## Sobre o projeto
 Realizar um plano de ação que visa auxiliar no combate e na prevenção de Doenças Sexualmente Transmissíveis, através de metas e objetivos claros.
 Doenças sexualmente transmissíveis são causadas por contato sexual com pessoas infectadas e são consideradas recorrentes em populações de baixa renda.
@@ -16,6 +12,15 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 - Realização de ações socioeducativas e de mobilização social para mudanças de comportamentos de risco.
 - Estruturação de uma rede de atenção para pessoas com essas doenças. 
 - Inclusão das doenças entre prioridade das agendas políticas.
+
+## Índice
+
+## Requisitos Funcionais
+
+## Tecnologias usadas
+
+## Contribuição
+Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 ## Autores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -30,6 +35,13 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
     <td align="center"><a href="https://github.com/RamonFReis"><img src="https://avatars.githubusercontent.com/u/90293308?v=4" width="100px;" alt=""/><br /><sub><b>Ramon Reis</b></sub></td>
     <td align="center"><a href="https://github.com/thalesgfelix"><img src="https://avatars.githubusercontent.com/u/90735076?v=4" width="100px;" alt=""/><br /><sub><b>Thales Gabriel</b></sub></td>
     <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /> <a>Líder de projeto</a></td>
+  <tr>
+<table
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+    
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Licença
+    
+## Agradecimentos
