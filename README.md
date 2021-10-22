@@ -30,15 +30,6 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
     <td align="center"><a href="https://github.com/RamonFReis"><img src="https://avatars.githubusercontent.com/u/90293308?v=4" width="100px;" alt=""/><br /><sub><b>Ramon Reis</b></sub></td>
     <td align="center"><a href="https://github.com/thalesgfelix"><img src="https://avatars.githubusercontent.com/u/90735076?v=4" width="100px;" alt=""/><br /><sub><b>Thales Gabriel</b></sub></td>
     <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /> <a>Líder de projeto</a></td>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Licença
-    
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
-
-## Agradecimentos
-    
-
