@@ -20,7 +20,7 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 ## Tecnologias usadas
 
 ## Contribuição
-Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+Leia o arquivo <a href="https://github.com/WillianGomesSoares/BemStar/blob/main/CONTRIBUTING.md">CONTRIBUTING.md <a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 ## Autores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -43,6 +43,6 @@ Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de cond
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo <a href= "https://github.com/WillianGomesSoares/BemStar/blob/main/LICENSE.md">LICENSE.md</a> para mais detalhes.
 
 ## Agradecimentos
