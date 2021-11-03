@@ -13,7 +13,7 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 - Estruturação de uma rede de atenção para pessoas com essas doenças. 
 - Inclusão das doenças entre prioridade das agendas políticas.
 
-## Índice
+## Sumário
 
 ## Requisitos Funcionais
 
