@@ -15,6 +15,13 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 
 ## Sumário
 * [Sobre](#Sobre-o-projeto)
+* [Sumário](#sumário)
+* [Requisitos Funcionais](#requisitos-funcionais)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
+* [Autores](#autores)
+* [Licença](#licença)
+* [Agradecimentos](#agradecimentos)
 
 ## Requisitos Funcionais
 - Cadastro de usuário
