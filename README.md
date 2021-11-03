@@ -16,6 +16,19 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 ## Sumário
 
 ## Requisitos Funcionais
+- Cadastro de usuário
+  + médico: [nome/cpf/telefone/e-mail/local(locais) de trabalho/diploma autenticado]
+  + paciente: [nome/cpf/telefone/e-mail/local de residência/doenças e(ou) condições]
+- Chat entre usuários
+- Entrada de informações
+  + ambos usuários podem cadastrar informações para o paciente: [horário de consultas/horário de remédios/prontuários médicos/receitas]
+  + usuário paciente pode ceder o acesso às suas informações para nenhum, um ou vários usuários médicos
+- Criar alertas automáticos somente para usuários Pacientes
+  + ~x~horas antes de consultas: (~X~ escolhido pelo usuário paciente ao criar conta)
+  + ~y~horas para consumo de remédios: (~Y~ escolhido automaticamente quando um remédio é cadastrado na conta do paciente)
+- confirmação de comparecimento de consultas: (somente usuário médico podem confirmar)
+- confirmação de uso de remédio: (usuário paciente ao encerrar o alerta precisa apertar um botão em pop-up para confirmar que tomou o remédio)
+- um resumo do mês é enviado para os usuários médicos que se relacionam com o usuário paciente com a quantidade de remédios tomados na hora certa, a quantidade de horários de tomar remédios perdidos
 
 ## Tecnologias usadas
 
