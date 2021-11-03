@@ -39,6 +39,11 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 - [ ] Um resumo do mês é enviado para os usuários médicos que se relacionam com o usuário paciente com a quantidade de remédios tomados na hora certa, a quantidade de horários de tomar remédios perdidos
 
 ## Tecnologias usadas
+- [Flutter](https://flutter.dev/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Contribuição
 Leia o arquivo <a href="https://github.com/WillianGomesSoares/BemStar/blob/main/CONTRIBUTING.md">CONTRIBUTING.md <a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
