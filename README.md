@@ -72,4 +72,4 @@ Leia o arquivo <a href="https://github.com/WillianGomesSoares/BemStar/blob/main/
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo <a href= "https://github.com/WillianGomesSoares/BemStar/blob/main/LICENSE.md">LICENSE.md</a> para mais detalhes.
 
 ## Agradecimentos
-<a href ="https://github.com/profdiegoaugusto">Professor Diego Augusto</a>, por nos orientar durante todo o projeto
+<a href ="https://github.com/profdiegoaugusto">Professor Diego Augusto</a>, por nos orientar durante todo o projeto.
