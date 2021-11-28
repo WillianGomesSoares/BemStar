@@ -24,19 +24,18 @@ Doenças sexualmente transmissíveis são causadas por contato sexual com pessoa
 * [Agradecimentos](#agradecimentos)
 
 ## Requisitos Funcionais
-- [ ] Cadastro de usuário
-  + médico: [nome/cpf/telefone/e-mail/local(locais) de trabalho/diploma autenticado]
-  + paciente: [nome/cpf/telefone/e-mail/local de residência/doenças e(ou) condições]
-- [ ] Chat entre usuários
-- [ ] Entrada de informações
-  + ambos usuários podem cadastrar informações para o paciente: [horário de consultas/horário de remédios/prontuários médicos/receitas]
-  + usuário paciente pode ceder o acesso às suas informações para nenhum, um ou vários usuários médicos
-- [ ] Criar alertas automáticos somente para usuários Pacientes
-  + _x_ horas antes de consultas: (_x_ escolhido pelo usuário paciente ao criar conta)
-  + _y_ horas para consumo de remédios: (_y_ escolhido automaticamente quando um remédio é cadastrado na conta do paciente)
-- [ ] Confirmação de comparecimento de consultas: (somente usuário médico podem confirmar)
-- [ ] Confirmação de uso de remédio: (usuário paciente ao encerrar o alerta precisa apertar um botão em pop-up para confirmar que tomou o remédio)
-- [ ] Um resumo do mês é enviado para os usuários médicos que se relacionam com o usuário paciente com a quantidade de remédios tomados na hora certa, a quantidade de horários de tomar remédios perdidos
+- Cadastro de usuário
+  + especialistas: [nome/cpf/telefone/e-mail/local(locais) de trabalho/diploma autenticado]
+  + comum: [nome/cpf/telefone/e-mail/local de residência/doenças e(ou) condições]
+- Interação direta entre usuários
+  + usuários podem pedir permissão para enviar mesnsagens diretas e particulares a outros usuários, independente do tipo de usuário.
+  + usuários que receberam o pedido de permissão podem aceitr ou recusá-lo, caso aceitem um canal será criado entre os dois usuários envolvidos.
+  + usuários podem seguir uns aos outros.
+- Eventos
+  + usuários especialista podem criar/marcar eventos do tipo palestras ou rodas de conversa
+  + quando um usuário especialista cria/marca um evento, uma notificação é enviada aos seus seguidores.
+  + durante rodas de conversas, é possível que um usuário se manifeste com a ação "levantar mão" para pedir a palavra ao especialista criador do evento.
+  + durante palestras, é possível que um usuário envie perguntas ao criador do evento.
 
 ## Tecnologias usadas
 - [Flutter](https://flutter.dev/)
